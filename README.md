@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import fromBinaryStringUint16 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-from-binary-string@esm/index.mjs';
+import fromBinaryStringUint16 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-from-binary-string@v0.2.1-esm/index.mjs';
 ```
 
 #### fromBinaryStringUint16( bstr )
@@ -87,7 +87,7 @@ import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/i
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import MAX_UINT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint16-max@esm/index.mjs';
 import toBinaryStringUint16 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-to-binary-string@esm/index.mjs';
-import fromBinaryStringUint16 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-from-binary-string@esm/index.mjs';
+import fromBinaryStringUint16 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-from-binary-string@v0.2.1-esm/index.mjs';
 
 var b;
 var x;
