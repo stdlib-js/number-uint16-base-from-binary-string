@@ -124,6 +124,14 @@ for ( i = 0; i < 100; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/number-uint16/base/to-binary-string`][@stdlib/number/uint16/base/to-binary-string]</span><span class="delimiter">: </span><span class="description">return a string giving the literal bit representation of an unsigned 16-bit integer.</span>
+-   <span class="package-name">[`@stdlib/number-uint32/base/from-binary-string`][@stdlib/number/uint32/base/from-binary-string]</span><span class="delimiter">: </span><span class="description">create an unsigned 32-bit integer from a literal bit representation.</span>
+-   <span class="package-name">[`@stdlib/number-uint8/base/from-binary-string`][@stdlib/number/uint8/base/from-binary-string]</span><span class="delimiter">: </span><span class="description">create an unsigned 8-bit integer from a literal bit representation.</span>
+
 </section>
 
 <!-- /.related -->
@@ -201,6 +209,14 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/number-uint16-base-from-binary-string/main/LICENSE
 
 [@stdlib/number/uint16/base/to-binary-string]: https://github.com/stdlib-js/number-uint16-base-to-binary-string
+
+<!-- <related-links> -->
+
+[@stdlib/number/uint32/base/from-binary-string]: https://github.com/stdlib-js/number-uint32-base-from-binary-string
+
+[@stdlib/number/uint8/base/from-binary-string]: https://github.com/stdlib-js/number-uint8-base-from-binary-string
+
+<!-- </related-links> -->
 
 </section>
 
