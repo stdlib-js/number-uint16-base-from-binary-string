@@ -44,7 +44,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-fromBinaryStringUint16 = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-from-binary-string@umd/browser.js' )
+fromBinaryStringUint16 = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-from-binary-string@v0.2.3-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -56,7 +56,7 @@ var fromBinaryStringUint16 = require( 'path/to/vendor/umd/number-uint16-base-fro
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-from-binary-string@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-from-binary-string@v0.2.3-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -109,7 +109,7 @@ val = fromBinaryStringUint16( bstr );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint16-max@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-to-binary-string@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-from-binary-string@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-from-binary-string@v0.2.3-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
